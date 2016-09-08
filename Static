@@ -5,3 +5,4 @@
 （static is about单例模式，多例模式）
 局部变量永远在栈里，new出来的东西永远在堆里。
 静态的东西在数据区，代码在代码区
+4.Static method must follow with static variable.   
