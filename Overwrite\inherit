@@ -1,3 +1,8 @@
 1.  method name, variable list and return value should be same when child method overwrite parent method.
 2.  overwrite class must not use any more strict priviledge
 3.  member var in parent/child class is not same. each var is handled by it's own class  
+construct in inherit
+1.  child's construction prcoess must invoke parent's contruct method using super()
+    .super(argument_list)
+    .this(argument_list)
+2.  if child class not invoke parent class construct method obviusly, parent class 's first no args construct class would be called
