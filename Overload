@@ -1,1 +1,2 @@
 1. overload is not name duplicated and parameter same name.
+2. construct method is in stack, after method excute done, stack is cleared
