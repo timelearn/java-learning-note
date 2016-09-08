@@ -5,3 +5,4 @@ package语句中用电说明包（目录）的层次
 com.bjsxt.java140 > com\bjsxt\java140
 .com must under classpath
 only java.lang no need to import
+jar -cvf to generate jar package
