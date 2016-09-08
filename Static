@@ -2,3 +2,6 @@
 2.Static variable is the only 1 for all instance, belong to class
   using like: classname.static var
 3.Static var could be used for counting, since it's used for all instance, or no instance
+（static is about单例模式，多例模式）
+局部变量永远在栈里，new出来的东西永远在堆里。
+静态的东西在数据区，代码在代码区
