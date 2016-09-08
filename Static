@@ -1,3 +1,4 @@
 1.Static type store in Data segment
 2.Static variable is the only 1 for all instance, belong to class
   using like: classname.static var
+3.Static var could be used for counting, since it's used for all instance, or no instance
