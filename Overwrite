@@ -1,2 +1,2 @@
-1.  method name, variable list and return value should be same when child class overwrite parent class.
+1.  method name, variable list and return value should be same when child method overwrite parent method.
 2.  overwrite class must not use any more strict priviledge
