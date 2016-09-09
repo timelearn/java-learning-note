@@ -10,3 +10,7 @@ Final:
 interface:
 class that all method are abstract, and all var are static and final. it's called a interface.
 by default, all var in interface are and only could be static final.
+
+
+interface/interface, class/class could be "extends" with each other.
+interface/class could only be "implements"
