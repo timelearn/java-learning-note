@@ -1,0 +1,12 @@
+1. abstract method must be included in abstract class.
+2. abstract class can not have instance.
+3. class that include abstract method must be abstract class.
+
+Final:
+1. Var with Final could not be changed
+2. method with Final could not be override
+3. class with Final could not be inherited.
+
+interface:
+class that all method are abstract, and all var are static and final. it's called a interface.
+by default, all var in interface are and only could be static final.
